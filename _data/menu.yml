@@ -77,6 +77,19 @@
       - title: Paket Sewa baju Manasik
         url: sewabaju-manasik
 - url: #
+  title: Portfolio Aksisoft MEDIA
+  sidebar: portfolio
+  name: Portfolio
+  icon: zmdi zmdi-assignment
+  submenu: "portfolio"
+  child: 
+   - title: Portfolio Website
+     id: portfoliowebsite
+     icon: zmdi zmdi-desktop-windows
+   - title: Portfolio Foto
+     id: portfoliofoto
+     icon: zmdi zmdi-desktop-windows
+- url: #
   title: Tutorial
   name: Tutorial
   sidebar: tutorial
