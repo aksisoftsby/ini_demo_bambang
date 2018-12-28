@@ -1,0 +1,12 @@
+---
+title: Tutorial
+layout: home
+pg: tutorial
+---
+<ul>
+	{% for ic in site.tutorial %}
+	<li>
+		<a href="{{ site.url }}{{ic.url}}">{{ ic.title }}</a>
+	</li>
+	{% endfor %}
+</ul>

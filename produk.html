@@ -1,0 +1,12 @@
+---
+title: Produk
+layout: home
+pg: produk
+---
+<ul>
+	{% for ic in site.produk %}
+	<li>
+		<a href="{{ site.url }}{{ic.url}}">{{ ic.title }}</a>
+	</li>
+	{% endfor %}
+</ul>

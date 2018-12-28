@@ -1,0 +1,14 @@
+{% for mn in site.data.menu %}
+{% assign ch = mn.child %}
+{% if ch %}
+<li>
+	<a class="link" href="{{ site.url }}/{{ mn.submenu }}" title='{{ mn.title }}'>
+		<i class="{{ mn.icon }}"></i> {{ mn.name }}</a>
+</li>
+{% else %}
+<li>
+	<a class="link" href="{{ site.url }}/{{ mn.url }}" title='{{ mn.title }}'>
+		<i class="{{ mn.icon }}"></i> {{ mn.name }}</a>
+</li>
+{% endif %}
+{% endfor %}

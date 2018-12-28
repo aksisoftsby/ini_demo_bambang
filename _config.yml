@@ -1,0 +1,54 @@
+## GOOD https://blog.webjeda.com/jekyll-categories/
+## https://agmstudio.io/themes/material-style/2.0.2/
+
+title: "Aksisoft MEDIA"
+description: "Jasa Pembuatan Website, Android, Web Hosting Surabaya - Aksisoft MEDIA"
+url: https://aksisoftsby.github.io/ini_demo_bambang
+# url: http://127.0.0.1:4000
+loading_teks: Aksisoft Media
+stylever: 23
+
+info_logourl: logo-sbyad.png
+info_logourlpp: pp-logo-sbyad.png
+email: admin@aksisoft.com
+alamat: "Surabaya"
+whatsapp: 081335206389
+whatsapp_62: 6281335206389
+
+facebook: https://www.facebook.com/Aksisoft/
+twitter: 
+  username: aksisoft
+
+social:
+  name: Aksisoft MEDIA
+  links:
+    - https://twitter.com/aksisoft
+    - https://www.facebook.com/aksisoft
+    - https://plus.google.com/u/4/100316394869017340848
+
+author:
+  twitter: aksisoft
+  facebook: aksisoft
+
+webmaster_verifications:
+  google: THwvIRN0ae05eoIXRES7gFTkoVJrPXHVnvmwbVPJPVI
+
+lang: id_ID
+
+collections:
+  produk:
+    output: true
+    permalink: /:collection/:name
+  tutorial:
+    output: true
+    permalink: /:collection/:name
+  posts:
+    output: true
+    permalink: /:title
+
+plugins:
+  - jekyll-avatar
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
