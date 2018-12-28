@@ -78,10 +78,10 @@
         url: sewabaju-manasik
 - url: #
   title: Portfolio Aksisoft MEDIA
-  sidebar: portfolio
   name: Portfolio
-  icon: zmdi zmdi-assignment
+  sidebar: portfolio
   submenu: "portfolio"
+  icon: zmdi zmdi-assignment
   child: 
    - title: Portfolio Website
      id: portfoliowebsite
