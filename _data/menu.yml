@@ -81,14 +81,17 @@
   name: Portfolio
   sidebar: portfolio
   submenu: "portfolio"
-  icon: zmdi zmdi-assignment
+  icon: zmdi zmdi-badge-check
   child: 
    - title: Portfolio Website
      id: portfoliowebsite
-     icon: zmdi zmdi-desktop-windows
+     icon: zmdi zmdi-globe-alt
    - title: Portfolio Foto
      id: portfoliofoto
-     icon: zmdi zmdi-desktop-windows
+     icon: zmdi zmdi-book-image
+   - title: Portfolio Desain
+     id: portfoliodesain
+     icon: zmdi zmdi-group
 - url: #
   title: Tutorial
   name: Tutorial
