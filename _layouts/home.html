@@ -37,7 +37,10 @@
     <div class="sb-site-container">
       {% include themes/header.html %} 
       {% include themes/header-nav.html %} 
-
+      <!-- 
+      show == sidebar 
+      use = full = true
+      -->
       {% assign show = false %}
       {% if page.pg == 'produk' %}{% assign show = true %}{% endif %}
       {% if page.pg == 'portfolio' %}{% assign show = true %}{% endif %}
