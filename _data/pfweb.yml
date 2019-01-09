@@ -1,3 +1,7 @@
+- title: EventMedia
+  url: https://www.eventmedia.id/
+  desc: Website Posting Event
+  image: web/apolloac.jpg
 - title: KPU Jawa Timur
   url: https://kpujatim.go.id
   desc: Website Komisi Pemilihan Umum Jawa Timur
@@ -14,3 +18,7 @@
   url: https://apollo-ac.com/
   desc: Website Company Jual AC
   image: web/apolloac.jpg
+- title: Inos Cuisine
+  url: https://inoscuisine.com/
+  desc: Website Cafe and Resto
+  image: web/inos.jpg
