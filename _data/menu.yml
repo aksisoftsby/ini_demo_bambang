@@ -88,19 +88,19 @@
      icon: zmdi zmdi-globe-alt
      child: 
       - title: Portfolio Website
-        url: portfolio/website
+        url: website
    - title: Portfolio Foto
      id: portfoliofoto
      icon: zmdi zmdi-book-image
      child: 
       - title: Portfolio Foto
-        url: portfolio/foto
+        url: foto
    - title: Portfolio Desain
      id: portfoliodesain
      icon: zmdi zmdi-group
      child: 
       - title: Portfolio Desain
-        url: portfolio/desain
+        url: desain
 - url: #
   title: Tutorial
   name: Tutorial
