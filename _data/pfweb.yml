@@ -3,5 +3,14 @@
   desc: Website Komisi Pemilihan Umum Jawa Timur
   image: web/kpujatim.jpg
 - title: KPU Kota Surabaya
+  url: http://kpu-surabayakota.go.id/
   desc: Website Komisi Pemilihan Umum Kota Surabaya
-  image: web/kpujatim.jpg
+  image: web/kpusurabaya.jpg
+- title: KPU Kota Bojonegoro
+  url: https://kab-bojonegoro.kpu.go.id/
+  desc: Website Komisi Pemilihan Umum Kota Bojonegoro
+  image: web/kpubojonegoro.jpg
+- title: Apollo AC
+  url: https://apollo-ac.com/
+  desc: Website Company Jual AC
+  image: web/apolloac.jpg
